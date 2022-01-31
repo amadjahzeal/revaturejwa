@@ -1,0 +1,277 @@
+2:30 PM	EST	
+
+8:30 PM		- 	4:00 AM
+
+ https://revature.zoom.us/j/92060638049?pwd=elRhbWJoeTZ0dmlodW9qUFEyYm5uQT09
+
+mohammad.tufail@revature.com is inviting you to a scheduled Zoom meeting.
+
+Topic: 220131 - USF-BSN - JWA ext.
+Time: Jan 31, 2022 10:00 AM Eastern Time (US and Canada)
+        Every week on Mon, Tue, Wed, Thu, Fri, until Apr 8, 2022, 50 occurrence(s)
+        Jan 31, 2022 10:00 AM
+        Feb 1, 2022 10:00 AM
+        Feb 2, 2022 10:00 AM
+        Feb 3, 2022 10:00 AM
+        Feb 4, 2022 10:00 AM
+        Feb 7, 2022 10:00 AM
+        Feb 8, 2022 10:00 AM
+        Feb 9, 2022 10:00 AM
+        Feb 10, 2022 10:00 AM
+        Feb 11, 2022 10:00 AM
+        Feb 14, 2022 10:00 AM
+        Feb 15, 2022 10:00 AM
+        Feb 16, 2022 10:00 AM
+        Feb 17, 2022 10:00 AM
+        Feb 18, 2022 10:00 AM
+        Feb 21, 2022 10:00 AM
+        Feb 22, 2022 10:00 AM
+        Feb 23, 2022 10:00 AM
+        Feb 24, 2022 10:00 AM
+        Feb 25, 2022 10:00 AM
+        Feb 28, 2022 10:00 AM
+        Mar 1, 2022 10:00 AM
+        Mar 2, 2022 10:00 AM
+        Mar 3, 2022 10:00 AM
+        Mar 4, 2022 10:00 AM
+        Mar 7, 2022 10:00 AM
+        Mar 8, 2022 10:00 AM
+        Mar 9, 2022 10:00 AM
+        Mar 10, 2022 10:00 AM
+        Mar 11, 2022 10:00 AM
+        Mar 14, 2022 10:00 AM
+        Mar 15, 2022 10:00 AM
+        Mar 16, 2022 10:00 AM
+        Mar 17, 2022 10:00 AM
+        Mar 18, 2022 10:00 AM
+        Mar 21, 2022 10:00 AM
+        Mar 22, 2022 10:00 AM
+        Mar 23, 2022 10:00 AM
+        Mar 24, 2022 10:00 AM
+        Mar 25, 2022 10:00 AM
+        Mar 28, 2022 10:00 AM
+        Mar 29, 2022 10:00 AM
+        Mar 30, 2022 10:00 AM
+        Mar 31, 2022 10:00 AM
+        Apr 1, 2022 10:00 AM
+        Apr 4, 2022 10:00 AM
+        Apr 5, 2022 10:00 AM
+        Apr 6, 2022 10:00 AM
+        Apr 7, 2022 10:00 AM
+        Apr 8, 2022 10:00 AM
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://revature.zoom.us/meeting/tJYtcemurTMqHt28SqJqSKB-SMBVMjfwmPVf/ics?icsToken=98tyKuCqrj0qHNedsB2ORowQAo_oc-7ztlxfgrcPxCz0KTFgSSG7Bc9gBJ91Fs_d
+
+Join Zoom Meeting
+https://revature.zoom.us/j/92060638049?pwd=elRhbWJoeTZ0dmlodW9qUFEyYm5uQT09
+
+Meeting ID: 920 6063 8049
+Passcode: 606290
+
+
+===============
+
+Java 1.8
+--------------------
+
+java is high level OOPS language
+4 features
+	Abstraction
+	Encapsulation
+	Polymorphism
+	Inheritance
+
+
+
+
+
+if
+for
+
+
+C	
+C++ ( C with classes)
+	pointers
+	multiple inheritance
+
+Oak (later renamed as Java)
+Java 1
+Java 1.5 
+	enhanced for loop
+	generics
+	thread safety
+	annotations
+JDK 1.7
+	try with resources 
+JDK 1.8
+	Lambada expression
+	Streams
+	new date time api
+
+
+==================
+java is case sensitive language
+** Naming convention
+class name must start with Capital letter
+
+Rules 
+Every statement must be terminated by semicolon
+
+and Convention
+
+
+Compilation :
+
+1) Checks for the errors
+2) Converts to byte code	(class files)
+
+
+JDK 1.8
+
+JDK - java development kit
+
+	JDK,JRE and JVM
+
+
+JRE
+	JRE and JVM
+
+
+To Check the version of java - 
+java -version
+
+Features of Java 
+===============
+
+Simple
+Platform independent
+Robust
+Multi threaded
+Portable
+
+
+***JVM is platform dependent
+
+**Later (What does multi threaded mean?)
+
+
+
+
+IDE
+-----------
+Integrated Development Environment
+
+
+'Eclipse 
+
+
+ The use of the default package is discouraged.
+
+
+
+------------------------------------------------------------------------------
+The only big thing about main method is that JVM will call.
+
+
+We will resume at : 4:55 PM
+break for 20 minutes
+
+
+Here's a reminder that you and all of your associates should be attending the QC Orientation For New Cohorts tomorrow morning at 10:00 AM Eastern.
+
+
+
+Here's the zoom link for the meeting:
+
+https://revature.zoom.us/j/96121243699?pwd=djhsQzJiMnp0VUwvcGZLMmNRb1dQQT09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Naming Conventions :
+
+Class name must start with capital letter
+RevaturePro
+Method/Variables name must start with small letter
+revaturePro
+Constant/Final
+ALL UPPERCASE 
+REVATUREPRO
+
+
+
+-----------CONTROL STATEMENT
+
+if else
+loops
+	for
+	while
+	do_while
+	enhanced for loop (works only with arrays )
+
+
+
+primitive data types
+----------------------
+byte			-127 	+128
+short
+	int
+long
+
+float
+	double
+
+boolean 
+
+char
+
+
+Scanner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
