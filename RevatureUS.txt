@@ -246,6 +246,374 @@ Scanner
 
 
 
+Git
+------------------------------------
+
+
+
+Readme.md
+
+H:\eclipse-work\reviews-app>git init
+Initialized empty Git repository in H:/eclipse-work/reviews-app/.git/
+
+H:\eclipse-work\reviews-app>git add .
+
+H:\eclipse-work\reviews-app>git commit -m "code committed by tufail"
+[master (root-commit) d5e2456] code committed by tufail
+ 6 files changed, 51 insertions(+)
+ create mode 100644 .classpath
+ create mode 100644 .project
+ create mode 100644 .settings/org.eclipse.jdt.core.prefs
+ create mode 100644 README.md
+ create mode 100644 bin/Demo1.class
+ create mode 100644 src/Demo1.java
+
+H:\eclipse-work\reviews-app>git remote add origin https://github.com/tufailahm/reviews-app.git
+
+H:\eclipse-work\reviews-app>git push -u origin master
+
+-------------------------After modification//changes into your project
+
+git add .
+git commit -m "code commited by Daniel"
+git push
+========================================
+
+
+
+
+
+
+Built in packages
+-----------------------------------------------------------------------
+java.lang (default imported)
+
+System
+String
+
+java.util
+Scanner sc = new Scanner(System.in);
+Date
+
+Date d 
+
+
+packages	/folders
+
+
+import
+
+
+=========
+
+Package
+
+Why we need a package ?
+
+10,000 songs
+
+
+1) Easy search
+2) Easy maintainance
+3) Security Mechanism
+4) Name collision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var args
+----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+Array
+------------------------------------------------------------
+
+
+int num1,num2,num3
+
+int num[] = new int[10];
+String names[] = new String[5];
+
+
+--declare and initiialize an array
+int marks[] = {87,65,98,70,65};
+
+**Array subscript starts from 0 
+System.out.println(marks[3]);
+
+
+
+String
+--------------------------------------------------------------
+is a class
+belongs java.lang package
+has lots of built in methods
+
+length
+.
+
+
+
+
+
+
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin 4, end 3, length 10
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4601)
+	at java.base/java.lang.String.substring(String.java:2704)
+	at StringDemo.main(StringDemo.java:16)
+
+
+
+
+
+
+JDK,JRE and JVM
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Access specifiers
+--------------------------------
+4 types 
+
+default
+public
+protected
+private
+
+
+----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Class vs Object
+
+OOPS
+
+State of a bulb
+
+on 
+off
+
+
+behavior 
+
+
+
+
+
+
+
+
+Passenger
+	pnrNumber
+	firstName
+	lastName			states
+	fare
+	seatNumber
+
+
+	bookTicket		behavior
+	cancelTicket
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Employee
+Manager
+
+Customer
+Teacher
+Student
+Professor
+
+
+
+is-a test	-inheritance
+
+parent 
+child
+
+
+
+
+
+
+
+
+
+
+
+---not allowed , since it multiple inheritaance
+
+Animal
+Mammal
+
+
+
+
+
+Dog :Animal,Mammal
+
+
+
+=============allowed, it is multi level
+
+Animal
+
+
+Mammal:Animal
+
+
+Dog:Mammal
+
+
+Polymorphism
+
+many forms
+
+patient
+
+
+
+
+
+
+
+
+
+Any questions ?
+
+
+public class Student {
+
+	int marks=100; // instance variable
+
+	public void takeExam() 
+	{
+		int marksScored; // local variable
+		if(marks>50)
+		{
+			marksScored=0;
+		}
+
+		System.out.println(marksScored);
+
+	}
+	public static void main(String[] args) {
+		int counter=0;
+		Student s = new Student();
+		s.takeExam();
+	}
+
+}
+
+
+Assignment :
+
+
+Enter the year : 2021
+
+
+No, 2021 is not a leap year
+
+Enter the year : 2020
+
+
+Yes, 2020 is a leap year
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&
+&&	- short circuit
+
+
+|
+||
+
+
+public class Example {
+	public static void main(String args[]) {
+		int i = 0;
+		int j = 2;
+		boolean b = (i > j) && (j++ > i);
+		System.out.println(j);
+		b = (i > j) & (j++ > i);
+		System.out.println(j);
+	}
+}
+
+
+byte
+short
+
+
+
+
+
 
 
 
